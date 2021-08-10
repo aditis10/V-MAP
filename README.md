@@ -19,7 +19,7 @@ Users can also click on the pins on the map to view an interactive chart for eac
 
 <img width="632" alt="3" src="https://user-images.githubusercontent.com/71997372/128809582-a4ee2e4c-3f9e-42ef-9ca3-6725c8427b6c.png">
 
-### How to Access
+### ⚡How to Access
 Check out the web app at https://brave-lumiere-a0ec26.netlify.app/
 
 ### ⚡Backend
